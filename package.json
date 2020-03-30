@@ -14,8 +14,7 @@
     "coding",
     "dev"
   ],
-  "author": "Ryan Fitzgerald",
-  "license": "MIT",
+  "author": "Sam Feizi",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.1",
