@@ -24,6 +24,7 @@
     "gulp-sass": "^3.1.0",
     "gulp-uglify": "^3.0.0",
     "gulp-wait": "0.0.2",
-    "lodash.mergewith": ">=4.6.2"
+    "lodash.mergewith": ">=4.6.2",
+    "cryptiles": ">=4.1.2"
   }
 }
